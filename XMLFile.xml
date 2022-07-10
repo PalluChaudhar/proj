@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<center>
+<Advertisements>
+  <Ad>
+    <ImageUrl>IMG/Chain.jpg</ImageUrl>
+    
+    <AlternateText>Chain Image</AlternateText>
+    <Impressions>10</Impressions>
+    <Keyword>Meera</Keyword>
+  </Ad>
+
+  <Ad>
+    <ImageUrl>IMG/Chalk.jpg</ImageUrl>
+   
+    <AlternateText>Chalk Image</AlternateText>
+    <Impressions>10</Impressions>
+    <Keyword>Academy</Keyword>
+  </Ad>
+  <Ad>
+    <ImageUrl>IMG/Elastic.jpg</ImageUrl>
+    
+    <AlternateText>Elastic Image</AlternateText>
+    <Impressions>10</Impressions>
+    
+  </Ad>
+  <Ad>
+    <ImageUrl>IMG/Hook.jpg</ImageUrl>
+
+    <AlternateText>Hook Image</AlternateText>
+    <Impressions>10</Impressions>
+   
+  </Ad>
+  <Ad>
+    <ImageUrl>IMG/Lase.jpg</ImageUrl>
+    <AlternateText>Lase Image</AlternateText>
+    <Impressions>10</Impressions>
+    
+  </Ad>
+  <Ad>
+    <ImageUrl>IMG/Latkan.jpg</ImageUrl>
+    <AlternateText> Latkan Image</AlternateText>
+    <Impressions>100</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>IMG/Machin.jpg</ImageUrl>
+    <AlternateText> Machine Image</AlternateText>
+    <Impressions>10</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>IMG/Showbutton.jpg</ImageUrl>
+    <AlternateText> Show button Image</AlternateText>
+    <Impressions>10</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>IMG/Tape.jpg</ImageUrl>
+    <AlternateText> Tape Image</AlternateText>
+    <Impressions>10</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>IMG/Thread.jpg</ImageUrl>
+    <AlternateText> Thread Image</AlternateText>
+    <Impressions>10</Impressions>
+  </Ad>
+
+</Advertisements>
+</center>
